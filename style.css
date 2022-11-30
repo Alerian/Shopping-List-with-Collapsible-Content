@@ -1,0 +1,23 @@
+body{
+    background-color: coral;
+    border-style: dashed;
+    padding:10px;
+    font-size:20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li button{
+    font-size: 10px;
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+}
+li span{
+    color: rgb(39, 33, 30);
+}
+
+input{
+    font-size: 15px;
+}
